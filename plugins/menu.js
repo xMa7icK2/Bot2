@@ -93,8 +93,8 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 *║┊:* 💻𝗮𝗰𝘁𝗶𝘃𝗶𝗱𝗮𝗱 𝗽𝗿𝗶𝗻𝗰𝗶𝗽𝗮𝗹 *%muptime*
 *║┊:* 📁𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲: %totalreg numeros
 *║┊:* 👑Mi Grupo y Canal de twitch
-*║┊:*  *https://chat.whatsapp.com/C4iLrR36DwQI3YdcxfwYm3
-*║┊:* https://www.twitch.tv/xma7iick
+*║┊:* 😎https://chat.whatsapp.com/C4iLrR36DwQI3YdcxfwYm3
+*║┊:* 👀https://www.twitch.tv/xma7iick
 *║┊:* 𝑇ℎ𝑎𝑛𝑘𝑠 𝑡𝑜 
 *║┊:* @Matias
 *╰═┅ৡৢ͜͡✦═══╡𝗦𝗮𝗺𝘂𝟯𝟯𝟬╞═══┅ৡৢ͜͡✦═╯*
