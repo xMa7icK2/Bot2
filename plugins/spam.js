@@ -4,7 +4,7 @@ let handler = async (m, { conn }) => {
     return new Promise(resolve => setTimeout(resolve, ms));
   }
   for (let i=0;i<50;i++){
-    conn.reply(m.chat, `👑Samu330👑 ⚠⚠⚠⚠Group⚠⚠⚠⚠ !\n\n${link}`)
+    conn.reply(m.chat, `👑Matias👑 ⚠⚠⚠⚠Group⚠⚠⚠⚠ !\n\n${link}`)
     await sleep(1250)
   }
 }
