@@ -93,8 +93,8 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 *║┊:* 💻𝗮𝗰𝘁𝗶𝘃𝗶𝗱𝗮𝗱 𝗽𝗿𝗶𝗻𝗰𝗶𝗽𝗮𝗹 *%muptime*
 *║┊:* 📁𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲: %totalreg numeros
 *║┊:* 👑Mi Grupo y Canal de twitch
-*║┊:* 😎
-*║┊:* 👀https://www.twitch.tv/xma7iick
+*║┊:* 😎 https://chat.whatsapp.com/C4iLrR36DwQI3YdcxfwYm3
+*║┊:* 👀 https://www.twitch.tv/xma7iick
 *║┊:* 𝑇ℎ𝑎𝑛𝑘𝑠 𝑡𝑜 
 *║┊:* @Matias
 *╰═┅ৡৢ͜͡✦═══╡[̲̅м̲̅α̲̅т̲̅i̲̅α̲̅ร̲̅]╞═══┅ৡৢ͜͡✦═╯*
@@ -104,7 +104,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 *▌║✙*❌𝑷𝒓𝒐𝒉𝒊𝒃𝒊𝒅𝒐 𝒔𝒑𝒂𝒎 𝒂𝒍 𝒃𝒐𝒕☢
 *▌║✙*❌𝑵𝒐 𝒂𝒈𝒓𝒆𝒈𝒂𝒓 𝒂𝒍 𝒃𝒐𝒕 𝒂 𝒈𝒓𝒖𝒑𝒐𝒔♻
 *▌║✙*✅𝑺𝒖𝒔𝒄𝒓𝒊́𝒃𝒆𝒕𝒆 𝒂 𝒎𝒊 𝒄𝒂𝒏𝒂𝒍🙂
-*▌║✙*https://www.twitch.tv/xma7iick
+*▌║✙* https://www.twitch.tv/xma7iick
 *▌║➫ Bot By:*
 *▌║⊱⊲ ⃟ ⃟ ⃟Matias*▌║✙*⛨*
 *▌║✙* _Owner bot_*
